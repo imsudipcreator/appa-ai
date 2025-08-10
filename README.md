@@ -1,12 +1,10 @@
-# Train your language model course
+### Train Your Own Language Model — appa-ai Edition 🚀
+We’ve all used Large Language Models (LLMs) and been amazed by what they can do. I wanted to go beyond just using them and actually understand how they’re built — so I started this journey.
 
-We’ve all used Large Language Models (LLMs) and been amazed by what they can do. I wanted to understand how these models are built, so I created this course.
+I’m from India 🇮🇳 and speak Bengali, Hindi, and English. Most LLMs today can handle them to some extent, but they can’t hold natural, context-rich conversations mixing all three like I do.
+So, as a challenge, I decided to train appa-ai, a custom language model, from scratch using my own datasets — inspired by my projects at Imago.
 
-I’m from Morocco and speak Moroccan Darija. Most LLMs today understand it a little, but they can't hold proper conversations in Darija. So, as a challenge, I decided to train a language model from scratch using my own WhatsApp conversations in Darija.
-
-I've made a YouTube playlist documenting every step. You can watch it at your own pace. If anything is unclear, feel free to open an issue in this repository. I’ll be happy to help!
-
-[![course_thumbnail](./images/course_thumbnail%20.png)](https://www.youtube.com/playlist?list=PLMSb3cZXtIfptKdr56uEdiM5pR6HDMoUX)
+This repository documents every step — from dataset preparation to building and training the model. If anything is unclear, feel free to open an issue here — I’ll be happy to help!
 
 ## What is in this repository?
 
