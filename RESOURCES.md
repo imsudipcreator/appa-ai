@@ -1,6 +1,6 @@
-# Useful resources  
+# About this project
 
-Here are some helpful resources I used while making this course. I’m sharing them with you in case they help. Enjoy!  
+This is a project of training a large language model from scratch. i am new to this field so i am following a tutorial along. i will try to use my creativity to add some my specific features here if i able to. otherwise this will be a generic practice project.
 
 ## Videos  
 
